@@ -4,5 +4,5 @@ from time import sleep
 # Create your views here.
 
 def index(request):
-    sleep(5)
+    sleep(6)
     return render(request, 'progressbar/index.html')
