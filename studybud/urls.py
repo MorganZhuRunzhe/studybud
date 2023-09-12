@@ -21,5 +21,4 @@ from django.http import HttpResponse
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('base.urls')),
-    # path('', include('progressbar.urls')),
 ]
