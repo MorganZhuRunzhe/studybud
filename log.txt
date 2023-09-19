@@ -1,0 +1,78 @@
+commit 48cfb7514a72760d3237833d2a9cca64f44cb7b7
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Fri Sep 15 15:05:57 2023 +1000
+
+    Add mobile responsiveness
+
+commit 07390530005f74589feee2d8301f99a7a8f35280
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Fri Sep 15 12:25:48 2023 +1000
+
+    Edit user account page
+
+commit dc159c4c1d21a069b1875762a018b0c7a803591d
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Thu Sep 14 17:29:29 2023 +1000
+
+    Install theme
+
+commit 8e0d5605ee5b90d8e8fead4b532a75b3236e4ee6
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Wed Sep 13 21:37:50 2023 +1000
+
+    Add static files
+
+commit 6fdec6e9ea9094fc0a4a97a09ab4d52b30c20879
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Wed Sep 13 18:29:18 2023 +1000
+
+    Add user profile page
+
+commit 0b2ea7a25a61b9161aff59a9b9124263f52a1b19
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Wed Sep 13 17:59:17 2023 +1000
+
+    Add activity feed feature
+
+commit 12d5a2732b430442c834ce9be2892f81703ba599
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Wed Sep 13 14:42:45 2023 +1000
+
+    Add chat room messages CRUD feature
+
+commit 439ce50c6c8dfc663d25bfba693c6e88b79c24aa
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Wed Sep 13 12:20:17 2023 +1000
+
+    Add user registration feature
+
+commit cf3fb2e4df647920aa7d1b45d8b03a8266cd267d
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Tue Sep 12 22:44:10 2023 +1000
+
+    Add restricted page feature
+
+commit f79982d106f5fa365dc2a6b791f92940807e41ae
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Tue Sep 12 22:21:43 2023 +1000
+
+    Add user login and logout feature
+
+commit 54323939bfeef223435ce2aaf8052a25fe00f4d7
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Tue Sep 12 13:36:34 2023 +1000
+
+    1. Remove progress bar feature
+    2. Add search feature
+
+commit 64c928c5e68147524ee5be799637471befd79196
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Fri Sep 8 20:23:01 2023 +1000
+
+    make some changes in views.py and try to commit to github
+
+commit a68d164bcc60b725ec1b75e6dfaa250de859a252
+Author: Zhu Runzhe(Morgan) <MorganZhuRunzhe@gmail.com>
+Date:   Fri Sep 8 20:19:13 2023 +1000
+
+    first commit
